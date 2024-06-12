@@ -1,5 +1,5 @@
 .contactList {
-  margin-top: 20px;
+  margin-top: 50px;
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
@@ -8,5 +8,5 @@
   padding: 10px;
   border: 1px solid black;
   border-radius: 10px;
-  background-color: #781414;
+  background-color: #d3640f;
 }
